@@ -9,7 +9,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import training.taylor.timetracker.core.dao.TimeEntry;
 
-import java.util.allList;
+import java.util.List;
 
 /**
  * Created by Jason on 6/20/2015.
